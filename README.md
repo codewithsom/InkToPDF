@@ -30,6 +30,16 @@ This repository contains a Word to PDF converter application built using Vite, R
 
    ```bash
     npm install
-    # or
+    or
     yarn install
 
+### Running the Development Server
+
+1. Start the development server:
+
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   
+2. Open your browser and navigate to http://localhost:7000 to see the application in action.
